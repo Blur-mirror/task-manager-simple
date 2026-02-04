@@ -20,3 +20,5 @@ The app contains a button that allows a user to mark a task as completed.
 When clicked, a notification is shown to the user.
 
 ## Project Structure
+
+---
